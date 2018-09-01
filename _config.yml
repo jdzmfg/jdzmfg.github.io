@@ -30,9 +30,9 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 
-twitter: nostaIg1a
-github: nostalg1a
-email: nostalg1a@outlook.com
+twitter: n_stalgia
+github: n-stalg1a
+email: n_stalgia@outlook.com
 cydia: n-stalgia.github.io/cydia
 nitotv: n-stalgia.github.io/nitotv
 # instagram: 
@@ -42,13 +42,13 @@ nitotv: n-stalgia.github.io/nitotv
 
 authors:
     nostalg1a:
-        name: nostalg1a
+        name: nostalgia
         bio: xnu superstar
         external-image: true
         picture: assets/images/dragon.jpg
         twitter: nostaIg1a
     nostalg1a:
-        name: nostalg1a
+        name: nostalgia
         bio: xnu superstar
         external-image: true
         picture: assets/images/dragon.jpg
