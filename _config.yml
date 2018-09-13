@@ -7,7 +7,7 @@ description: xnu superstar
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: assets/images/dragon.jpg
+picture: assets/images/animoji.jpg
 
 resume: false
 resume-external: false
@@ -45,14 +45,14 @@ authors:
         name: nostalgia
         bio: xnu superstar
         external-image: true
-        picture: assets/images/dragon.jpg
-        twitter: nostaIg1a
+        picture: assets/images/animoji.jpg
+        twitter: n_staIgia
     nostalg1a:
         name: nostalgia
         bio: xnu superstar
         external-image: true
-        picture: assets/images/dragon.jpg
-        twitter: nostaIg1a
+        picture: assets/images/animoji.jpg
+        twitter: n_staIgia
 
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
