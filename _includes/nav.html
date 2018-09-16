@@ -37,6 +37,14 @@
                 </li>
             {% endif %}
         {% endif %}
+        
+        {% if site.about == true %}
+            {% if page.title != "nitotv" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/nitotv">nitotv</a>
+                </li>
+            {% endif %}
+        {% endif %}
 
         {% if site.resume == true %}
             <li class="item">
