@@ -1,5 +1,5 @@
 # main text of home
-name: nostalgia
+name: notnostalgic
 bio: xnu superstar
 
 description: xnu superstar
@@ -30,9 +30,9 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 
-twitter: n_staIgia
+twitter: notnostalgic
 github: n-stalgia
-email: n_stalgia@outlook.com
+email: sshoreboarder@outlook.com
 cydia: n-stalgia.github.io/cydia
 nitotv: n-stalgia.github.io/nitotv
 # instagram: 
@@ -42,17 +42,17 @@ nitotv: n-stalgia.github.io/nitotv
 
 authors:
     nostalg1a:
-        name: nostalgia
+        name: notnostalgic
         bio: xnu superstar
         external-image: true
         picture: assets/images/animoji.jpg
-        twitter: n_staIgia
+        twitter: notnostalgic
     nostalg1a:
-        name: nostalgia
+        name: notnostalgic
         bio: xnu superstar
         external-image: true
         picture: assets/images/animoji.jpg
-        twitter: n_staIgia
+        twitter: notnostalgic
 
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
