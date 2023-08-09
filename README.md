@@ -1,7 +1,5 @@
 ## Website
 
-Edit `_config.yml` with your data (check <a href="README.md#settings">settings</a> section)
-
 If you want to visit the website:
 
 1. [jmd0x](https://jmd0x.github.io/),
