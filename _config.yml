@@ -1,5 +1,5 @@
 # main text of home
-name: n_stlga
+name: jmd0x
 bio: poppin' shells on yer fone
 
 description: poppin' shells on yer fone
@@ -11,9 +11,9 @@ picture: assets/images/fsoc.jpg
 
 resume: false
 resume-external: false
-resume-url: n-stalgia.github.io/resume.docx
+resume-url: jmd0x.github.io/resume.docx
 
-url: https://n-stalgia.github.io
+url: https://jmd0x.github.io
 
 permalink: /:title/
 
@@ -30,11 +30,11 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 
-twitter: n_stlga
-github: n-stalgia
+twitter: jmd0x
+github: jmd0x
 email: sshoreboarder@yahoo.com
-cydia: n-stalgia.github.io/cydia
-nitotv: n-stalgia.github.io/nitotv
+cydia: jmd0x.github.io/cydia
+nitotv: jmd0x.github.io/nitotv
 # instagram: 
 # youtube: 
 # spotify: 
@@ -42,17 +42,17 @@ nitotv: n-stalgia.github.io/nitotv
 
 authors:
     nostalg1a:
-        name: n_stlga
+        name: jmd0x
         bio: poppin' shells on yer fone
         external-image: true
         picture: assets/images/fsoc.jpg
-        twitter: n_stlga
+        twitter: jmd0x
     nostalg1a:
-        name: n_stlga
+        name: jmd0x
         bio: poppin' shells on yer fone
         external-image: true
         picture: assets/images/fsoc.jpg
-        twitter: n_stlga
+        twitter: jmd0x
 
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
