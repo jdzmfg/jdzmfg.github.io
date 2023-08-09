@@ -7,7 +7,7 @@ description: poppin' shells on yer fone
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: assets/images/animoji.jpg
+picture: assets/images/fsoc.jpg
 
 resume: false
 resume-external: false
