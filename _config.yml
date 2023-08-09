@@ -1,8 +1,8 @@
 # main text of home
 name: n_stlga
-bio: xnu superstar
+bio: poppin' shells on yer fone
 
-description: xnu superstar
+description: poppin' shells on yer fone
 
 # if it's an external image, update below for true
 # better with square images
@@ -32,7 +32,7 @@ disqus:
 
 twitter: n_stlga
 github: n-stalgia
-email: sshoreboarder@outlook.com
+email: sshoreboarder@yahoo.com
 cydia: n-stalgia.github.io/cydia
 nitotv: n-stalgia.github.io/nitotv
 # instagram: 
@@ -43,15 +43,15 @@ nitotv: n-stalgia.github.io/nitotv
 authors:
     nostalg1a:
         name: n_stlga
-        bio: xnu superstar
+        bio: poppin' shells on yer fone
         external-image: true
-        picture: assets/images/animoji.jpg
+        picture: assets/images/fsoc.jpg
         twitter: n_stlga
     nostalg1a:
         name: n_stlga
-        bio: xnu superstar
+        bio: poppin' shells on yer fone
         external-image: true
-        picture: assets/images/animoji.jpg
+        picture: assets/images/fsoc.jpg
         twitter: n_stlga
 
 # options: [normal, large] | default: normal
