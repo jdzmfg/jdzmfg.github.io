@@ -58,7 +58,7 @@ authors:
 # normal = 560px / large = 810px
 width: normal
 
-about: true
+whoami: true
 cydia: true
 nitotv: true
 blog: true
