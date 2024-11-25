@@ -1,8 +1,8 @@
 # main text of home
-name: jmd0x
-bio: poppin' shells on yer fone
+name: jdzmfg
+bio: hackintosh enthusiast
 
-description: poppin' shells on yer fone
+description: hackintosh enthusiast
 
 # if it's an external image, update below for true
 # better with square images
@@ -11,9 +11,9 @@ picture: assets/images/fsoc.jpg
 
 resume: false
 resume-external: false
-resume-url: jmd0x.github.io/resume.docx
+resume-url: jdzmfg.github.io/resume.docx
 
-url: https://jmd0x.github.io
+url: https://jdzmfg.github.io
 
 permalink: /:title/
 
@@ -30,11 +30,11 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 
-twitter: jmd0x
-github: jmd0x
-email: jmd0x@github.io
-cydia: jmd0x.github.io/cydia
-nitotv: jmd0x.github.io/nitotv
+twitter: jdzmfg
+github: jdzmfg
+email: jdzmfg@github.io
+cydia: jdzmfg.github.io/cydia
+nitotv: jdzmfg.github.io/nitotv
 # instagram: 
 # youtube: 
 # spotify: 
@@ -42,17 +42,17 @@ nitotv: jmd0x.github.io/nitotv
 
 authors:
     jmd0x:
-        name: jmd0x
-        bio: poppin' shells on yer fone
+        name: jdzmfg
+        bio: hackintosh enthusiast
         external-image: true
         picture: assets/images/fsoc.jpg
-        twitter: jmd0x
+        twitter: jdzmfg
     jmd0x:
-        name: jmd0x
-        bio: poppin' shells on yer fone
+        name: jdzmfg
+        bio: hackintosh enthusiast
         external-image: true
         picture: assets/images/fsoc.jpg
-        twitter: jmd0x
+        twitter: jdzmfg
 
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
