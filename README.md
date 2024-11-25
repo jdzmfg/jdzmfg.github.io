@@ -1,7 +1,7 @@
 ## Website
 
-If you would like to visit the [Website](https://jmd0x.github.io/)
+If you would like to visit the [Website](https://jdzmfg.github.io/)
 
-Add my [Cydia Repo](https://jmd0x.github.io/cydia/),
+Add my [Cydia Repo](https://jdzmfg.github.io/cydia/),
 
 :)`Thanks for visting!`.
