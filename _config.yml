@@ -32,9 +32,9 @@ disqus:
 
 twitter: jdzmfg
 github: jdzmfg
-email: jdzmfg@github.io
-cydia: jdzmfg.github.io/cydia
-nitotv: jdzmfg.github.io/nitotv
+repositories: jdzmfg
+# email: jdzmfg@github.io
+# nitotv: 
 # instagram: 
 # youtube: 
 # spotify: 
@@ -58,11 +58,9 @@ authors:
 # normal = 560px / large = 810px
 width: normal
 
-whoami: true
 cydia: true
 nitotv: true
-blog: true
-projects: true
+repositories: true
 
 
 read-time: true
